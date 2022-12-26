@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Vegan Schnitzel",
+        "price": 159,
+        "description": "Real German Taste... Fresh Vegan Recipe",
+        "img": "/images/vegan_schnitzel.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Vegan Burger",
+        "price": 169,
+        "description": "Classic Vegan Burger",
+        "img": "/images/vegan_burger.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Vegan Hot Dog",
+        "price": 100,
+        "description": "American Hot Dog... but not really",
+        "img": "/images/vegan_hot_dogs.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Vegan Gulas",
+        "price": 140,
+        "description": "Hungaryan-like Gulas",
+        "img": "/images/vegan_gulas.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Vegan Mac and Cheese",
+        "price": 120,
+        "description": "Ordiany Fried Cheese",
+        "img": "/images/vegan_fried_mac_and_cheese.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Vegan Pizza",
+        "price": 180,
+        "description": "Everyone loves pizza... vegans need it too",
+        "img": "/images/vegan_pizza.jpg"
+    }
+]
