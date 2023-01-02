@@ -14,7 +14,7 @@ export default function MealItem(props) {
         cartCtx.addItem({
             id: props.id,
             name: props.name,
-            amount: props.amount,
+            amount: amount,
             price: props.price
         })
     }
@@ -24,7 +24,7 @@ export default function MealItem(props) {
             <div>
                 <h3>{props.name}</h3>
                 <div className={classes.description}>{props.description}</div>
-                <img className={classes.image} src={props.image} />
+                <img className={classes.image} src={props.image} alt="Meal" />
                 <div className={classes.price}>{price}</div>
                 
             </div>

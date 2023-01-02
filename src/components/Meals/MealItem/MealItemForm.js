@@ -21,7 +21,7 @@ export default function MealItemForm(props) {
             return;
         }
 
-        props.onAddToCart(enteredAmount)
+        props.onAddToCart(enteredAmountNumber)
     };
     return (
         <form className={classes.form} onSubmit={submitHandler}>
